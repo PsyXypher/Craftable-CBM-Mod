@@ -7,19 +7,19 @@ To install, place the included Craft_CBMs folder in your data/mods folder. It is
 ## Changes Made
 
 * The following CBMs have been given the recipes they had in older versions of Cataclysm:
-** Aero-Evaporator CBM
-** Arms Alloy Plating CBM
-** Battery System CBM
-** Cranial Flashlight CBM
-** Head Alloy Plating CBM
-** Legs Alloy Plating CBM
-** Power Armor Interface CBM
-** Power Armor Mk. II Interface CBM
-** Power Storage CBM
-** Power Storage CBM Mk. II
-** Torso Alloy Plating CBM
-** Unified Power System CBM
-** Water Extraction Unit CBM
+ - Aero-Evaporator CBM
+ - Arms Alloy Plating CBM
+ - Battery System CBM
+ - Cranial Flashlight CBM
+ - Head Alloy Plating CBM
+ - Legs Alloy Plating CBM
+ - Power Armor Interface CBM
+ - Power Armor Mk. II Interface CBM
+ - Power Storage CBM
+ - Power Storage CBM Mk. II
+ - Torso Alloy Plating CBM
+ - Unified Power System CBM
+ - Water Extraction Unit CBM
 
 * Power Storage CBM and Power Storage CBM Mk. II can be disassembled, yielding the same components they did in older versions.
 
