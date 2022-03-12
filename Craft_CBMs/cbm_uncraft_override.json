@@ -17,11 +17,6 @@
     "time": "700 s",
     "using": [ [ "soldering_standard", 32 ] ],
     "qualities": [ { "id": "SCREW", "level": 1 } ],
-    "components": [
-      [ [ "power_supply", 10 ] ],
-      [ [ "amplifier", 6 ] ],
-      [ [ "plut_cell", 2 ] ],
-      [ [ "burnt_out_bionic", 1 ] ]
-    ]
+    "components": [ [ [ "power_supply", 10 ] ], [ [ "amplifier", 6 ] ], [ [ "plut_cell", 2 ] ], [ [ "burnt_out_bionic", 1 ] ] ]
   }
 ]
